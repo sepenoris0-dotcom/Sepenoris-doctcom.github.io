@@ -1,2 +1,2 @@
-# Sepenoris-doctcom.github.io
+# Sepenoris-dotcom.github.io
 Visibilité 
